@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yakash
-- 👀 I’m interested in 
+- 👀 I’m interested in Web Dev,App Dev
 - 🌱 I’m currently learning java,c,html&css,js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:yesafakash@gmail.com
