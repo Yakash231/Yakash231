@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java,app dev,full stack devlopment.
 - 📫 How to reach me email:yesafakash@gmail.com
 - I am A Gamer.
+- Stay tuned for my upcoming project.
 
 <!---
 Yakash231/Yakash231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
