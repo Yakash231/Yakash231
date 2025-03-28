@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yakash
 - 👀 I’m interested in playing games and devlopment.
-- 🌱 I’m currently learning java,app dev,full stack devlopment.
+- 🌱 I’m currently learning java,app dev, Bakcend devlopment.
 - 📫 How to reach me email:yesafakash@gmail.com
 - I am A Gamer.
 - Stay tuned for my upcoming project.
